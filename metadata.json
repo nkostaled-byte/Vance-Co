@@ -1,0 +1,6 @@
+{
+  "name": "Barbershop Booking and Shop",
+  "description": "A comprehensive barbershop client application featuring a public marketing site, multi-step appointment booking, an e-commerce shop with checkout, and an administrative owner dashboard with booking, order, invoice, and inquiry management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
